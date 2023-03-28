@@ -130,3 +130,5 @@ Q 23  Write a program to display first 1 to 20  even number on screen . Terminat
 
 Q 24 Write a Java program that accepts two double variables and test if both strictly between 0 and 1 and false otherwise.
 Hint n1 > 0 && n1 < 1 && n2 > 0 && n2 < 1
+
+# Question Assignment - 03
