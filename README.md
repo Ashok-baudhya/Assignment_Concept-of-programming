@@ -131,4 +131,24 @@ Q 23  Write a program to display first 1 to 20  even number on screen . Terminat
 Q 24 Write a Java program that accepts two double variables and test if both strictly between 0 and 1 and false otherwise.
 Hint n1 > 0 && n1 < 1 && n2 > 0 && n2 < 1
 
+
 # Question Assignment - 03
+
+Q 1 Write a Java program to sum values of an array.
+Q 2 Write a Java program to calculate the average value of array elements
+Q 3Write a Java program to test if an array contains a specific value
+Q 4Write a Java program to find the index of an array element
+Q 5Write a Java program to copy an array by iterating the array
+Q 6Write a Java program to find the maximum and minimum value of an array
+
+Q 7Write a Java program to reverse an array of integer values.'
+Q 8 Write a Java program to test the equality of two arrays
+Q 9Write a Java program to find the number of even and odd integers in a given array of integers.
+Q 10 Write a program to search element in array using (linear search and binary search)
+
+Q 11 Take 20 integer inputs from user and print the following:
+number of positive numbers
+number of negative numbers
+number of odd numbers
+number of even numbers
+number of 0s.
