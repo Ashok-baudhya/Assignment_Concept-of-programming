@@ -1,18 +1,16 @@
 # Assignment_Concept-of-programming
 
-Questio of Assignment - 01
+# Questio of Assignment - 01
+
 
 Q wap to demonstrate ternary operator .define a variable marks  .ask its value from user and using ternary operator check if marks > 40 store "Pass" in result varible else store "Fail"
 
 Q 2 using ternary check if number entered by user is positive or negative .
 In case number is positive store "Positive number" else store negative number to Result variable
 
-
 Q 3 WAP to ask name ,age and salary of an employee and print on console.
 
-
 Q 4 wap  that ask two numbers from user and print greater number among two 
-
 
 Q 5 wap to ask product name and price of product from user and calculate discount i.e 
 if price > 2000 then discount is 10 percent of price 
@@ -25,8 +23,6 @@ Q 7  How to swap two numbers without using a third variable?
 
 Q 8 wap to check is number is evenor odd.
 
-
-
 Q 9   A school has following rules for grading system:
  a. Below 25 - F
  b. 25 to 45 - E
@@ -36,11 +32,11 @@ Q 9   A school has following rules for grading system:
  f. Above 80 - A
  Ask user to enter marks and print the corresponding grade 
 
-
-
 Q  10 wap to check greater number among three numbers
 
-Questino Assignment 02
+
+# Questino Assignment 02
+
 
 Q1 Write a program to calculate the sum of first 10 natural number.
 
@@ -57,8 +53,6 @@ Q 6 Write a program to print Fibonacci series of n terms where n is input by use
 0 1 1 2 3 5 8 13 24 ..... 
 
 Q 7 Write a program to print following :
-
- 
 
 i)
 
@@ -136,4 +130,3 @@ Q 23  Write a program to display first 1 to 20  even number on screen . Terminat
 
 Q 24 Write a Java program that accepts two double variables and test if both strictly between 0 and 1 and false otherwise.
 Hint n1 > 0 && n1 < 1 && n2 > 0 && n2 < 1
-
