@@ -16,14 +16,12 @@ public class Question_3 {
 		{
 			if(arr[i]==v)
 			{
-				System.out.println("value is present in index = "+i);
+				System.out.println("value is present in the Array");
 				break;
 			}
 			
 			if(i==n-1)
-			{
-				System.out.println("value is not present");
-			}
+				System.out.println("value is not present in the Array");
 		}
 		
 	}
