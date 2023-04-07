@@ -161,3 +161,18 @@ number of negative numbers
 number of odd numbers
 number of even numbers
 number of 0s.
+
+# Assignment 4
+
+Q 1) create a class three methods
+a) void cube(int a)
+b) void square (int b)
+c) void greater(int a,int b,int c)
+
+create another class having main method
+display menu
+1) cube
+2) square
+3) greater
+Ask choice from user and based on choice call above methods
+Repeat the menu till choice is not equal to 0
