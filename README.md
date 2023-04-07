@@ -165,6 +165,7 @@ number of 0s.
 # Assignment 4
 
 Q 1) create a class three methods
+
 a) void cube(int a)
 b) void square (int b)
 c) void greater(int a,int b,int c)
