@@ -179,3 +179,65 @@ display menu
 3) greater
 Ask choice from user and based on choice call above methods
 Repeat the menu till choice is not equal to 0
+
+
+# Cop Internal Exam Question
+
+Q 1  Create package MyShop. 
+
+A company named MyShop started online portal for flower selling .Design Java application that keeps its flower record and also maintain its customer database for future promotions .
+
+
+b) define class Flower having fields like name ,no_of_petals, price, no_of_piece, total price
+c) define no argument constructor  and initialize with some default values
+d) define parameterized constructor .
+e)  create calculate_discount method that checks if total price is greater than 2000 then give return 200 else return 100
+f) define display method to show all values . and values after discount .
+
+ Part B 
+ In same package create another method Customer having fields like cname, address , pincode .
+g) create getData and showDate method to get and display customer data .
+
+Part C 
+ 
+h) Create separate class AllData in same package that contains main method 
+i) in main method display menu 
+     1) Flower
+     2) Customer 
+
+using switch case call particular class method .Keep repeating the menu till user enter 0 (zero) 
+
+
+Q 2   Given an array, print all the elements which are leaders. A Leader is an element that is greater than all of the elements on its right side in the array.
+
+Example 1:
+Input:
+arr = [4, 7, 1, 0] 
+Output:
+7 1 0
+ 
+Explanation:
+Rightmost element is always a leader. 7 and 1 are greater than the elements in their right side. 
+
+ 
+Example 2: 
+Input:
+arr = [10, 22, 12, 3, 0, 6]
+ 
+Output:
+22 12 6
+ 
+Explanation:
+6 is a leader. In addition to that, 12 is greater than all the elements in its right side (3, 0, 6), also 22 is greater than 12, 3, 0, 6.
+ 
+
+
+Q 3  write a programming to check any number is spy number or not 
+
+example 
+1124 is spy  i.e 1+1+2+4  =8 
+                     and 1*1*2*4=8
+		
+# solution 
+
+Myshop and internal Exam folder contain solution
